@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements xmlns="http://schemas.microsoft.com/AspNet/AdRotator-Schedule-File">
+  <Ad>
+    <ImageUrl>~/Images/Ad1.jpg</ImageUrl>
+    <NavigateUrl></NavigateUrl>
+    <AlternateText></AlternateText>
+    <Impressions></Impressions>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/Images/Coke.jpg</ImageUrl>
+    <NavigateUrl></NavigateUrl>
+    <AlternateText></AlternateText>
+    <Impressions></Impressions>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/Images/Ad3.jpg</ImageUrl>
+    <NavigateUrl></NavigateUrl>
+    <AlternateText></AlternateText>
+    <Impressions></Impressions>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/Images/fullsub.jpg</ImageUrl>
+    <NavigateUrl></NavigateUrl>
+    <AlternateText></AlternateText>
+    <Impressions></Impressions>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/Images/halfsub.jpg</ImageUrl>
+    <NavigateUrl></NavigateUrl>
+    <AlternateText></AlternateText>
+    <Impressions></Impressions>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/Images/pizza.jpg</ImageUrl>
+    <NavigateUrl></NavigateUrl>
+    <AlternateText></AlternateText>
+    <Impressions></Impressions>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/Images/Mountain Dew.jpg</ImageUrl>
+    <NavigateUrl></NavigateUrl>
+    <AlternateText></AlternateText>
+    <Impressions></Impressions>
+  </Ad>
+</Advertisements>
